@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB626693-4CD5-44D0-BF74-C26B91E05A1B}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|c:\\users\\isaac\\source\\repos\\pedri\\agenciaautomotriz\\agenciaautomotriz\\frmuproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB626693-4CD5-44D0-BF74-C26B91E05A1B}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\frmuproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB626693-4CD5-44D0-BF74-C26B91E05A1B}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|c:\\users\\isaac\\source\\repos\\pedri\\agenciaautomotriz\\agenciaautomotriz\\frmuherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB626693-4CD5-44D0-BF74-C26B91E05A1B}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\frmuherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB626693-4CD5-44D0-BF74-C26B91E05A1B}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|c:\\users\\isaac\\source\\repos\\pedri\\agenciaautomotriz\\agenciaautomotriz\\frmutaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB626693-4CD5-44D0-BF74-C26B91E05A1B}|AgenciaAutomotriz\\AgenciaAutomotriz.csproj|solutionrelative:agenciaautomotriz\\frmutaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62905CA2-D93A-4CEC-88A1-36E58F7DE7AE}|Manejadores\\Manejadores.csproj|c:\\users\\isaac\\source\\repos\\pedri\\agenciaautomotriz\\manejadores\\manejadortaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62905CA2-D93A-4CEC-88A1-36E58F7DE7AE}|Manejadores\\Manejadores.csproj|solutionrelative:manejadores\\manejadortaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62905CA2-D93A-4CEC-88A1-36E58F7DE7AE}|Manejadores\\Manejadores.csproj|c:\\users\\isaac\\source\\repos\\pedri\\agenciaautomotriz\\manejadores\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62905CA2-D93A-4CEC-88A1-36E58F7DE7AE}|Manejadores\\Manejadores.csproj|solutionrelative:manejadores\\manejadorrefacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\AgenciaAutomotriz\\FrmUProducto.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\FrmUProducto.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\AgenciaAutomotriz\\FrmUProducto.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\FrmUProducto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:27:58.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUHerramientas.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\AgenciaAutomotriz\\FrmUHerramientas.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\FrmUHerramientas.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\AgenciaAutomotriz\\FrmUHerramientas.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\FrmUHerramientas.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:27:25.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUTaller.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\AgenciaAutomotriz\\FrmUTaller.cs",
+              "RelativeDocumentMoniker": "AgenciaAutomotriz\\FrmUTaller.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\AgenciaAutomotriz\\FrmUTaller.cs",
+              "RelativeToolTip": "AgenciaAutomotriz\\FrmUTaller.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAzwEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:27:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManejadorRefacciones.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\Manejadores\\ManejadorRefacciones.cs",
+              "RelativeDocumentMoniker": "Manejadores\\ManejadorRefacciones.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\Manejadores\\ManejadorRefacciones.cs",
+              "RelativeToolTip": "Manejadores\\ManejadorRefacciones.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:22:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManejadorTaller.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\Manejadores\\ManejadorTaller.cs",
+              "RelativeDocumentMoniker": "Manejadores\\ManejadorTaller.cs",
+              "ToolTip": "C:\\Users\\Isaac\\source\\repos\\Pedri\\AgenciaAutomotriz\\Manejadores\\ManejadorTaller.cs",
+              "RelativeToolTip": "Manejadores\\ManejadorTaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:24:44.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Isaac\source\repos\Pedri\AgenciaAutomotriz\Entidades\bin\Debug\Entidades.dll
+C:\Users\Isaac\source\repos\Pedri\AgenciaAutomotriz\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Isaac\source\repos\Pedri\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\Pedri\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Pedri\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.dll
+C:\Users\Isaac\source\repos\Pedri\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.pdb
+C:\Users\bc084\Downloads\AgenciaAutomotriz\AgenciaAutomotriz\Entidades\bin\Debug\Entidades.dll
+C:\Users\bc084\Downloads\AgenciaAutomotriz\AgenciaAutomotriz\Entidades\bin\Debug\Entidades.pdb
+C:\Users\bc084\Downloads\AgenciaAutomotriz\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\bc084\Downloads\AgenciaAutomotriz\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bc084\Downloads\AgenciaAutomotriz\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.dll
+C:\Users\bc084\Downloads\AgenciaAutomotriz\AgenciaAutomotriz\Entidades\obj\Debug\Entidades.pdb
